@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Arches v3 User Manual'
-author = u'Legion GIS'
+author = u'Legion GIS, LLC'
 copyright = u'2016, Getty Conservation Institute and World Monuments Fund'
 
 # The version info for the project you're documenting, acts as replacement for
